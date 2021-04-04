@@ -65,4 +65,10 @@
 .quote-externo {
   max-width: 320px;
   margin: 0 auto;
+  color: white;
 }
+
+.quote-externo p {
+  font-style: italic;
+}
+
