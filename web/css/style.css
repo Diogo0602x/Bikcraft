@@ -55,3 +55,8 @@
   font-weight: bold;
   text-transform: uppercase;
 }
+
+.quote-externo {
+  max-width: 3600px;
+  margin: 0 auto;
+}
