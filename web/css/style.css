@@ -45,5 +45,13 @@
   background: url("../img//bg.jpg") no-repeat center;
   background-size: cover;
   margin-top: 96px;
+  text-align: center;
+  padding-top: 80px;
+}
 
+.introducao h1 {
+  font-size: 48px;
+  color: #FFF;
+  font-weight: bold;
+  text-transform: uppercase;
 }
