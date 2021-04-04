@@ -72,3 +72,14 @@
   font-style: italic;
 }
 
+.quote-externo p::before {
+
+}
+
+.quote-externo cite {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  letter-spacing: .1em;
+}
+
