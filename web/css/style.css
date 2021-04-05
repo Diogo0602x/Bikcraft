@@ -309,3 +309,7 @@ img {
 	line-height: 20px;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+.footer_redes ul li {
+	display: inline-block;
+}
