@@ -185,5 +185,13 @@ p {
 .portfolio {
 	width: 100%;
 	background: #000;
-	padding: 40px;
+	padding: 40px 0;
+}
+
+.portfolio .subtitulo {
+	color: #fec63e;
+}
+
+.portfolio .subtitulo::after {
+	background: #fec63e;
 }
