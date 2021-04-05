@@ -266,4 +266,9 @@ img {
 	background: url("../img/bg-footer.jpg") no-repeat center;
 	background-size: cover;
 	text-align: center;
+	padding-top: 40px;
+}
+
+.quebra .quote-externo {
+	max-width: 400px;
 }
