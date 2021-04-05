@@ -169,6 +169,10 @@ letter-spacing: .1em;
   margin: 2px auto;
 } 
 
+.produtos_lista li p {
+  padding: 10px 20px 20px 20px;
+}
+
 .produtos_icone {
   background: #000;
   padding: 20px;
