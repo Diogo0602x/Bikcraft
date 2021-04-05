@@ -148,10 +148,28 @@ letter-spacing: .1em;
 
 .produtos_lista li {
   background: #fec63e;
+  text-align: center;
 }
+
+.produtos_lista li h3 {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  margin-top: 20px auto;
+}
+
+.produtos_lista li h3::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: #000;
+  margin: 2px auto;
+} 
 
 .produtos_icone {
   background: #000;
   padding: 20px;
-  text-align: center;
 }
