@@ -192,7 +192,7 @@ p {
 	color: #fec63e;
 }
 
-.portfolio .subtitulo::after {
+.portfolio .subtitulo:after {
 	background: #fec63e;
 }
 
@@ -204,3 +204,8 @@ p {
 	color: #fff;
 }
 
+/*Qualidade*/
+
+.qualidade {
+	padding: 60px 0;
+}
