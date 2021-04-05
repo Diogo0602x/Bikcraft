@@ -214,7 +214,7 @@ img {
 	padding: 60px 0;
 }
 
-.qualidade ::after {
+.qualidade::after{
 	content: "";
 	width: 634px;
 	height: 83px;
@@ -222,7 +222,7 @@ img {
 	background: url("../img/linhas.svg");
 	position: absolute;
 	top: 200px;
-	height: 162px;
+	right: 162px;
 	top: 209px;
 }
 
