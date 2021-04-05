@@ -214,6 +214,18 @@ img {
 	padding: 60px 0;
 }
 
+.qualidade ::after {
+	content: "";
+	width: 634px;
+	height: 83px;
+	display: block;
+	background: url("../img/linhas.svg");
+	position: absolute;
+	top: 200px;
+	height: 162px;
+	top: 209px;
+}
+
 .qualidade img{
 	margin: 0 auto;
 }
