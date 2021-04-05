@@ -320,3 +320,7 @@ img {
 	display: block;
 	padding: 10px;
 }
+
+.footer_redes ul li a:hover {
+	border-color: #fff;
+} 
