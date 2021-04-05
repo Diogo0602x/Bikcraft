@@ -38,6 +38,25 @@ p{
   border-color: #fff;
 }
 
+.subtitulo {
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: bold;
+  letter-spacing: .1em;
+  color: #000;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.subtitulo::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: #000;
+  margin: 8px auto;
+}
+
 /* Header */
 .header {
 position: fixed;
@@ -119,4 +138,10 @@ font-style: normal;
 font-weight: bold;
 font-size: 14px;
 letter-spacing: .1em;
+}
+
+/* Produtos */ 
+
+.produtos {
+  padding: 60px 0;
 }
