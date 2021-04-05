@@ -255,4 +255,5 @@ img {
 	height: 3px;
 	background: #000;
 	margin: 6px auto;
+	z-index: -1;
 }
