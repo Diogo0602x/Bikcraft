@@ -303,3 +303,9 @@ img {
 .footer_historia {
 	padding-right: 40px;
 }
+
+.footer_contato {
+	font-size: 14px;
+	line-height: 20px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
