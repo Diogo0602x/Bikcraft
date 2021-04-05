@@ -272,3 +272,20 @@ img {
 .quebra .quote-externo {
 	max-width: 400px;
 }
+
+/* Quebra */
+
+.footer {
+	width: 100%;
+	background: #000;
+	color: #fff;
+}
+
+.footer h3 {
+	font-size: 18px;
+	line-height: 25px;
+	color: #fec63e;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	font-weight: bold;
+}
