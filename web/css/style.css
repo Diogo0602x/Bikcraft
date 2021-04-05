@@ -222,3 +222,12 @@ img {
 	text-align: center;
 	padding: 0 40px;
 }
+
+.qualidade_lista li h3{
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 25px;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	margin-top: 20px;
+}
