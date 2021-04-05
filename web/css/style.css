@@ -231,3 +231,12 @@ img {
 	letter-spacing: .1em;
 	margin-top: 20px;
 }
+
+.qualidade_lista li h3:after{
+	content: "";
+	display: block;
+	width: 60px;
+	height: 3px;
+	background: #000;
+	margin: 6px auto;
+}
