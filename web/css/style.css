@@ -230,6 +230,10 @@ img {
 	margin: 0 auto;
 }
 
+.qualidade_lista {
+	padding-top: 20px;
+}
+
 .qualidade_lista li {
 	text-align: center;
 	padding: 0 40px;
