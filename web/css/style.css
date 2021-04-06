@@ -62,16 +62,16 @@ img {
 	letter-spacing: .1em;
 	color: #000;
 	text-transform: uppercase;
-  margin-bottom: 20px;
+	margin-bottom: 20px;
 }
 
-.subtitulo-interno::after {
+.subtitulo-interno:after {
 	content: "";
 	display: block;
 	width: 60px;
 	height: 3px;
 	background: #000;
-	margin: 8px auto;
+	margin: 8px 0;
 }
 
 /* Header */
@@ -110,7 +110,7 @@ img {
 }
 
 .header_menu ul li a.menu_ativo {
-	color: #fff;
+	color: #FFF;
 }
 
 /* Introdução */
@@ -196,6 +196,11 @@ img {
 	text-align: center;
 }
 
+/* Necessário para centralizar as imagens */
+.produtos_lista li img {
+	margin: 0 auto;
+}
+
 .produtos_lista li h3{
 	font-weight: bold;
 	font-size: 18px;
@@ -268,11 +273,11 @@ img {
 	width: 634px;
 	height: 83px;
 	display: block;
-	background: url("../img/linhas.svg");
+	background: url("../img/linhas.svg") no-repeat center;
 	position: absolute;
-	top: 200px;
-	right: 162px;
 	top: 209px;
+	right: 162px;
+	z-index: -1;
 }
 
 .qualidade img{
@@ -281,7 +286,7 @@ img {
 
 .qualidade_lista {
 	padding-top: 20px;
-	overflow: auto; 
+	overflow: auto; /* clear-fix */
 }
 
 .qualidade_lista li {
@@ -305,7 +310,6 @@ img {
 	height: 3px;
 	background: #000;
 	margin: 6px auto;
-	z-index: -1;
 }
 
 /* Quebra */
@@ -354,10 +358,10 @@ img {
 	padding-right: 40px;
 }
 
-.footer_contato {
+.footer_contato ul li {
 	font-size: 14px;
 	line-height: 20px;
-	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-family: Georgia, "Times New Roman", serif;
 }
 
 .footer_redes ul li {
@@ -373,7 +377,7 @@ img {
 
 .footer_redes ul li a:hover {
 	border-color: #fff;
-} 
+}
 
 .copy {
 	width: 100%;
