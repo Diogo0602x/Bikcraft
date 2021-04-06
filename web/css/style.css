@@ -65,6 +65,15 @@ img {
   margin-bottom: 20px;
 }
 
+.subtitulo-interno::after {
+	content: "";
+	display: block;
+	width: 60px;
+	height: 3px;
+	background: #000;
+	margin: 8px auto;
+}
+
 /* Header */
 
 .header {
