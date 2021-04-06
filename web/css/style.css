@@ -136,6 +136,14 @@ img {
 	letter-spacing: .1em;
 }
 
+/* Introdução Interna */
+
+.introducao-interna {
+	width: 100%;
+	margin-top: 92px;
+	height: 160px;
+}
+
 /* Produtos */
 
 .produtos {
@@ -273,7 +281,7 @@ img {
 	max-width: 400px;
 }
 
-/* Quebra */
+/* Footer */
 
 .footer {
 	width: 100%;
