@@ -143,11 +143,13 @@ img {
 	margin-top: 92px;
 	height: 160px;
 	background-size: cover;
+	text-align: center;
+	color: #fff;
+	padding-top: 30px;
 }
 
 .introducao-interna h1 {
-	font-size: 48px;
-	color: #fff;
+	font-size: 36px;
 	font-weight: bold;
 	text-transform: uppercase;
 }
@@ -158,7 +160,7 @@ img {
 	width: 60px;
 	height: 3px;
 	background: #fff;
-	margin: 14px auto 10px auto;
+	margin: 6px auto 10px auto;
 }
 
 /* Produtos */
