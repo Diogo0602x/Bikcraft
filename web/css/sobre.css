@@ -12,3 +12,9 @@
   margin-bottom: 1em;
   padding-right: 40px;
 }
+
+.missao_sobre ul li{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  line-height: 30px;
+}
