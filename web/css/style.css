@@ -109,6 +109,10 @@ img {
 	color: #FFF;
 }
 
+.header_menu ul li a.menu_ativo {
+	color: #fff;
+}
+
 /* Introdução */
 
 .introducao {
