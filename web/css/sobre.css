@@ -1,3 +1,7 @@
 .interna_sobre {
   background: url("../img/bg-sobre.jpg") no-repeat center;
 }
+
+.missao_sobre {
+  padding: 60px;
+}
