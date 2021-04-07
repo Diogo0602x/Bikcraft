@@ -6,3 +6,8 @@
 .produto_item {
   padding-top: 60px;
 }
+
+.produto_icone {
+  background: #000;
+  padding: 70px 0;
+}
