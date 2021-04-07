@@ -47,3 +47,15 @@
   line-height: 25px;
   padding: 30px 40px;
 }
+
+.produto_info  ul li {
+  background: #fec63e;
+  text-transform: uppercase;
+  font-size: 18px;
+  line-height: 20px;
+  float: left;
+  width: 229px;
+  height: 49px;
+  text-align: center;
+  margin-right: 2px;
+}
