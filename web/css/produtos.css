@@ -2,3 +2,7 @@
   background: url("../img/bg-produtos.jpg") no-repeat center;
   background-size: cover;
 }
+
+.produto_item {
+  padding-top: 60px;
+}
