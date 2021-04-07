@@ -14,8 +14,18 @@
   letter-spacing: .1em;
   font-weight: bold;
   position: relative;
-  top: -170px;
+  top: -180px;
   text-align: center;
+  margin-bottom: -56px;
+}
+
+.produto_item h2::after, .produto_item h2::after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: #fff;
+  margin: 6px auto 8px auto;
 }
 
 .produto_icone {
