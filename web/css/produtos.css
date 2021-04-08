@@ -136,3 +136,11 @@
 .orcamento_dados {
 	color: #fff;
 }
+
+.orcamento_dados h3{
+	font-size: 18px;
+	line-height: 25px;
+	text-transform: uppercase;
+	color: #fec63e;
+	font-weight: bold;
+}
