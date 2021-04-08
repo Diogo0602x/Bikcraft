@@ -83,6 +83,10 @@
 	color: #fec63e;
 }
 
+.orcamento h2::after {
+	background: #fec63e;
+}
+
 .form {
 	padding-right: 60px;
 }
