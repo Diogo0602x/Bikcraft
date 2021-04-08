@@ -70,3 +70,9 @@
 .produto_info ul li:nth-child(even) {
 	margin-left: 2px;
 }
+
+/* Orçamento */
+
+.form {
+	padding-right: 60px;
+}
