@@ -93,4 +93,20 @@
 
 .form label {
 	display: block;
+	color: #fff;
+	font-family: Georgia, 'Times New Roman', serif;
+	font-size: 18px;
+	line-height: 25px;
+}
+
+.form input {
+	display: block;
+	width: 100%;
+	border: 4px solid #fec63e;
+	color: #fff;
+	padding: 7px 10px;
+	margin-bottom: 10px;
+	outline: none;
+	font-size: 14px;
+	font-family: Georgia, 'Times New Roman', serif;
 }
