@@ -150,3 +150,7 @@
 	line-height: 30px;
 	font-family: Georgia, "Times New Roman", serif;
 }
+
+.orcamento_dados ul {
+	padding-right: 60px
+}
