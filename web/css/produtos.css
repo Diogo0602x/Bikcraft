@@ -154,3 +154,9 @@
 .orcamento_dados ul {
 	padding-right: 60px
 }
+
+.orcamento_dados ul li {
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 14px;
+	padding: 10px 15px;
+}
