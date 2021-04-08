@@ -160,3 +160,7 @@
 	font-size: 14px;
 	padding: 10px 15px;
 }
+
+.orcamento_dados ul li:nth-child(odd) {
+	background: #1d1d1d;
+}
