@@ -84,7 +84,7 @@
 	color: #fec63e;
 }
 
-.orcamento h2::after {
+.orcamento h2:after {
 	background: #fec63e;
 }
 
@@ -144,11 +144,16 @@
 	color: #fec63e;
 	font-weight: bold;
 }
+
 .orcamento_dados span {
 	display: block;
 	font-size: 18px;
 	line-height: 30px;
 	font-family: Georgia, "Times New Roman", serif;
+}
+
+.dados_email {
+	margin-bottom: 40px;
 }
 
 .orcamento_dados ul {
@@ -163,6 +168,7 @@
 
 .orcamento_dados ul li:nth-child(odd) {
 	background: #1d1d1d;
+
 }
 
 .orcamento_dados p {
