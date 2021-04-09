@@ -8,3 +8,12 @@
 	max-width: 500px;
 	margin: 0 auto;
 }
+
+.quote_clientes p{
+	text-align: center;
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 18px;
+	line-height: 25px;
+	font-style: italic;
+	margin-bottom: 20px;
+}
