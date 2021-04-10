@@ -12,6 +12,10 @@
     padding-bottom: 0px;
   }
 
+  .header img {
+    margin: 0 auto 10px auto;
+  }
+
   .header_menu ul li {
     margin: 5px;
   }
