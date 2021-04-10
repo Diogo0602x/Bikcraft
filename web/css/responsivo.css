@@ -6,6 +6,10 @@
     right: 66px;
   }
 
+  .qualidade_lista li {
+    padding: 0 10px;
+  }
+
 }
 
 /*Estilo para smartphone*/
