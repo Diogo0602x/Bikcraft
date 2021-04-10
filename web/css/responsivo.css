@@ -16,4 +16,11 @@
     margin: 5px;
   }
 
+  .header_menu ul li a {
+    border: 4px solid #000;
+    width: 136px;
+    display: block;
+    float: left;
+  }
+
 }
