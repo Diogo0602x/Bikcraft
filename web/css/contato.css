@@ -88,3 +88,7 @@
 	display: block;
 	padding: 10px;
 }
+
+.contato_dados ul li a:hover {
+	border-color: #000;
+}
