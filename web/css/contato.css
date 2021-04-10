@@ -73,3 +73,7 @@
 .contato_dados span:nth-of-type(even) {
 	margin-bottom: 30px;
 }
+
+.contato_dados ul {
+	margin-top: 10px;
+}
