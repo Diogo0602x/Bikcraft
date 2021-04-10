@@ -61,22 +61,26 @@
 
   /*Introducao*/
 
-.introducao {
-	margin-top: 0px;
-	padding-top: 20px;
-	background: url("../img/bg-mobile.jpg") no-repeat center;
-	background-size: cover;
-}
+  .introducao h1 {
+    font-size: 36px;
+  }
+
+  .introducao {
+    margin-top: 0px;
+    padding-top: 20px;
+    background: url("../img/bg-mobile.jpg") no-repeat center;
+    background-size: cover;
+  }
 
 
-/*Call*/
-.call {
-	padding-top: 10px;
-}
+  /*Call*/
+  .call {
+    padding-top: 10px;
+  }
 
-/*Qualidade Home*/
-.qualidade:after {
-	display: none;
-}
+  /*Qualidade Home*/
+  .qualidade:after {
+    display: none;
+  }
 
 }
