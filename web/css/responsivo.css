@@ -23,4 +23,8 @@
     float: left;
   }
 
+  .header_menu ul li a:hover {
+    border-color: #fff;
+  }
+
 }
