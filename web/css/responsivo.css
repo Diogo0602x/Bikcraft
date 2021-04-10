@@ -74,4 +74,9 @@
 	padding-top: 10px;
 }
 
+/*Qualidade Home*/
+.qualidade:after {
+	display: none;
+}
+
 }
