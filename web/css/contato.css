@@ -12,3 +12,12 @@
 .contato_form {
 	padding-right: 60px;
 }
+
+.contato_form label{
+	display: block;
+	color: #fff;
+	font-family: Georgia, "Times New Roman", serif;
+	font-size: 18px;
+	line-height: 25px;
+	margin-bottom: 4px;
+}
