@@ -45,3 +45,8 @@
 	font-size: 14px;
 	font-family: Georgia, "Times New Roman", serif;
 }
+
+.contato_form button {
+	padding: 7px 40px;
+	background: none;
+}
