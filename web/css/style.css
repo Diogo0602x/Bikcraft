@@ -159,7 +159,7 @@ img {
 	letter-spacing: .1em;
 }
 
-/* Introdução Interna */
+/*Introducao Interna*/
 
 .introducao-interna {
 	width: 100%;
@@ -176,7 +176,7 @@ img {
 	text-transform: uppercase;
 }
 
-.introducao-interna h1::after {
+.introducao-interna h1:after {
 	content: "";
 	display: block;
 	width: 60px;
@@ -185,7 +185,8 @@ img {
 	margin: 6px auto 10px auto;
 }
 
-/* Produtos */
+
+/*Produtos*/
 
 .produtos {
 	padding: 60px 0;
@@ -238,7 +239,7 @@ img {
 	margin-bottom: 20px;
 }
 
-/* Portfólio */
+/*Portfólio*/
 
 .portfolio {
 	width: 100%;
@@ -262,13 +263,13 @@ img {
 	color: #fff;
 }
 
-/* Qualidade */
+/*Qualidade*/
 
 .qualidade {
 	padding: 60px 0;
 }
 
-.qualidade::after{
+.qualidade:after {
 	content: "";
 	width: 634px;
 	height: 83px;
@@ -312,7 +313,7 @@ img {
 	margin: 6px auto;
 }
 
-/* Quebra */
+/*Quebra*/
 
 .quebra {
 	width: 100%;
@@ -327,7 +328,7 @@ img {
 	max-width: 400px;
 }
 
-/* Footer */
+/*Footer*/
 
 .footer {
 	width: 100%;
@@ -345,7 +346,7 @@ img {
 	font-weight: bold;
 }
 
-.footer h3::after {
+.footer h3:after {
 	content: "";
 	display: block;
 	width: 60px;

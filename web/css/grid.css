@@ -43,3 +43,14 @@
 .grid-15 	{width: 880px;}
 .grid-16 	{width: 940px;}
 .grid-1-3	{width: 300px;}
+
+@media only screen and (min-width: 768px) and (max-widht: 959px) {
+
+	.container {
+		width: 768px;
+		margin: 0 auto;
+		padding: 0px;
+		position: relative;
+	}
+
+}
