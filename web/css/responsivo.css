@@ -27,4 +27,13 @@
     border-color: #fff;
   }
 
+  /*Introducao*/
+
+.introducao {
+	margin-top: 0px;
+	padding-top: 20px;
+	background: url("../img/bg-mobile.jpg") no-repeat center;
+	background-size: cover;
+}
+
 }
