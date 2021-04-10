@@ -5,3 +5,11 @@
 
 /*Estilo para smartphone*/
 @media only screen and (max-width: 787px) {
+
+  /*Header*/
+  .header {
+    position: relative;
+    padding-bottom: 0px;
+  }
+
+}
