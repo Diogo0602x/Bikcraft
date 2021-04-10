@@ -10,6 +10,16 @@
     padding: 0 10px;
   }
 
+
+  /*Footer*/
+
+.footer_redes ul li a {
+	border: 3px solid #fec63e;
+	display: block;
+	padding: 6px;
+
+}
+
 }
 
 /*Estilo para smartphone*/
