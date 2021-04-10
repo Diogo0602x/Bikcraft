@@ -69,3 +69,7 @@
 	line-height: 30px;
 	font-family: Georgia, "Times New Roman", serif;
 }
+
+.contato_dados span:nth-of-type(even) {
+	margin-bottom: 30px;
+}
