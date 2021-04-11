@@ -76,6 +76,12 @@
     background-size: cover;
   }
 
+  /*Introducao Interna*/
+
+    .introducao-intera {
+      margin-top: 0px;
+    }
+
   /*Call*/
   
   .call {
