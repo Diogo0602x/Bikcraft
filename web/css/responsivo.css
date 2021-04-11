@@ -59,6 +59,10 @@
     border-color: #fff;
   }
 
+  .header_menu ul li a.menu_ativo {
+    border-color: #fff;
+  }
+
   /*Introducao*/
 
   .introducao h1 {
