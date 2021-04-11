@@ -78,7 +78,7 @@
 
   /*Introducao Interna*/
 
-    .introducao-intera {
+    .introducao-interna {
       margin-top: 0px;
     }
 
@@ -91,6 +91,12 @@
   /*Qualidade Home*/
   .qualidade:after {
     display: none;
+  }
+
+  /*Sobre*/
+
+  .missao_sobre p {
+    padding-right: 0px;
   }
 
 }
