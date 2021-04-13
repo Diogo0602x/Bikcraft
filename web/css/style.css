@@ -411,3 +411,14 @@ img {
 		margin-top: 20px;
 	}
 
+	[data-slide-nav] button {
+		display: inline-block;
+		width: 12px;
+		height: 12px;
+		margin: 4px;
+		border: none;
+		border-radius: 6px;
+		text-indent: -99px;
+		overflow: none;
+		background: #1d1d1d;
+	}
