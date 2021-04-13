@@ -419,6 +419,10 @@ img {
 		border: none;
 		border-radius: 6px;
 		text-indent: -99px;
-		overflow: none;
+		overflow: hidden;
 		background: #1d1d1d;
+	}
+
+	[data-slide-nav] button.active {
+		background: #fec63e;
 	}
