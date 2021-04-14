@@ -10,4 +10,5 @@ if(window.SimpleSlide) {
     time: 5000,
     nav: true
   });
+  
 }
