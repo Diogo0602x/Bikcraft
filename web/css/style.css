@@ -198,7 +198,6 @@ img {
 	text-align: center;
 }
 
-/* Necessário para centralizar as imagens */
 .produtos_lista li img {
 	margin: 0 auto;
 }
@@ -387,56 +386,57 @@ img {
 	padding: 20px 0;
 }
 
-/*JAVASCRIPT*/
+/* JavaScript */
 
-	.js [data-slide] {
-		position: relative;
-	}
+.js [data-slide] {
+  position: relative;
+}
 
-	.js [data-slide] > * {
-		position: absolute;
-		top: 0px;
-		opacity: 0;
-	}
+.js [data-slide] > * {
+  position: absolute;
+  top: 0px;
+  opacity: 0;
+}
 
-	.js [data-slide] > .active {
-		position: relative;
-		opacity: 1;
-		transition: opacity 500ms;
-	}
+.js [data-slide] > .active {
+  position: relative;
+  opacity: 1;
+  transition: opacity 500ms;
+}
 
-	.js [data-slide-nav] {
-		display: block;
-		text-align: center;
-		margin-top: 20px;
-	}
+.js [data-slide-nav] {
+	display: block;
+	text-align: center;
+	margin-top: 20px;
+}
 
-	.js [data-slide-nav] button {
-		display: inline-block;
-		width: 12px;
-		height: 12px;
-		margin: 4px;
-		border: none;
-		border-radius: 6px;
-		text-indent: -99px;
-		overflow: hidden;
-		background: #1d1d1d;
-	}
+.js [data-slide-nav] button {
+	display: inline-block;
+	width: 12px;
+	height: 12px;
+	margin: 4px;
+	border: none;
+	padding: 0px;
+	border-radius: 6px;
+	text-indent: -99px;
+	overflow: hidden;
+	background: #1d1d1d;
+}
 
-	.js [data-slide-nav] button.active {
-		background: #fec63e;
-	}
-	
-	.js [data-anime] {
-		opacity: 0;
-	}
-	
-	.js .fadeInDown {
-		transform: translate3d(0, -20px, 0);
-	}
-	
-	.js .anime {
-		opacity: 1;
-		transform: none;
-		transition: opacity 800ms, transform 800ms;
-	}
+.js [data-slide-nav] button.active {
+	background: #fec63e;
+}
+
+.js [data-anime] {
+	opacity: 0;
+}
+
+.js .fadeInDown {
+	transform: translate3d(0, -20px, 0);
+}
+
+.js .anime {
+	opacity: 1;
+	transform: none;
+	transition: opacity 800ms, transform 800ms;
+}
