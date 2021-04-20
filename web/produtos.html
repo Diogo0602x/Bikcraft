@@ -2,7 +2,19 @@
 <html lang="pt-br">
 	<head>
 		<meta charset="utf-8">
-		<title>Bikcraft - Produtos</title>
+		<title>Bikcraft - Conheça as linhas Passeio, Retrô e Esporte</title>
+		<meta name="description" content="Compre a sua bicicleta personalizada na Bikcraft. Possuímos modelos Passeio, Retrô e Esporte.">
+
+		<meta property="og:type" content="website"/>
+		<meta property="og:title" content="Bikcraft - Conheça as linhas Passeio, Retrô e Esporte"/>
+		<meta property="og:description" content="Compre a sua bicicleta personalizada na Bikcraft. Possuímos modelos Passeio, Retrô e Esporte."/>
+		<meta property="og:url" content="http://bikcraft.com/produtos.html"/>
+		<meta property="og:image" content="http://bikcraft.com/img/og-image.png"/>
+
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<link rel="shortcut icon" href="favicon.ico">
+
 		<link rel="stylesheet" href="css/normalize.css">
 		<link rel="stylesheet" href="css/reset.css">
 		<link rel="stylesheet" href="css/grid.css">
@@ -93,23 +105,24 @@
 		<section class="orcamento">
 			<div class="container">
 				<h2 class="subtitulo">Orçamento</h2>
-				<form id="form_orcamento" method="POST" action="/enviar.php" class="form grid-8 formphp">
+				<form id="form_orcamento" method="POST" action="./enviar.php" class="form grid-8 formphp">
 					<label for="nome">Nome</label>
 					<input type="text" id="nome" name="nome" required>
 					<label for="email">E-mail</label>
-					<input type="email" id="email"name="email" required>
+					<input type="email" id="email" name="email" required>
 					<label for="telefone">Telefone</label>
 					<input type="text" id="telefone" name="telefone">
 
 					<label class="nao-aparece">Se você não é um robô, deixe em branco.</label>
-					<input type="text" class="nao-aparece" name="laveblank">
-					<label class="nao-aparece">Se você não é um robô, mude mude este campo.</label>
+					<input type="text" class="nao-aparece" name="leaveblank">
+					<label class="nao-aparece">Se você não é um robô, não mude este campo.</label>
 					<input type="text" class="nao-aparece" name="dontchange" value="http://">
 
 					<label for="mensagem">Mensagem</label>
 					<textarea id="mensagem" name="mensagem" required></textarea>
 					<button id="enviar" name="enviar" type="submit" class="btn">Enviar</button>
 				</form>
+				
 				<div class="orcamento_dados grid-8">
 					<h3>Dados</h3>
 					<span>+55 21 93223 3232</span>
@@ -155,8 +168,8 @@
 					<div class="grid-4 footer_redes">
 						<h3>Contato</h3>
 						<ul>
-							<li><a href="http://facebook.com/Diogo0602" target="_blank"><img src="img/redes-sociais/facebook.svg"></a></li>
-							<li><a href="http://instagram.com/_diogo0602" target="_blank"><img src="img/redes-sociais/instagram.svg"></a></li>
+							<li><a href="http://facebook.com" target="_blank"><img src="img/redes-sociais/facebook.svg"></a></li>
+							<li><a href="http://instagram.com" target="_blank"><img src="img/redes-sociais/instagram.svg"></a></li>
 							<li><a href="http://twitter.com" target="_blank"><img src="img/redes-sociais/twitter.svg"></a></li>
 						</ul>
 					</div>
