@@ -5,20 +5,20 @@ Site Bikcraft, criado para a aplicação do conhecimento aprendido sobre Web Des
 
 # Página Inicial
 
-![Página-Inicial](https://github.com/Diogo0602x/Bikcraft/blob/master/web/img/inicial.png)
+![Página-Inicial](https://github.com/Diogo0602x/Bikcraft/blob/master/web/img/inicial.PNG)
 
 # Página Sobre
 
-![Sobre](https://github.com/Diogo0602x/Bikcraft/blob/master/web/img/sobre.png)
+![Sobre](https://github.com/Diogo0602x/Bikcraft/blob/master/web/img/sobre.PNG)
 
 # Página Produtos
 
-![Produtos](https://github.com/Diogo0602x/Bikcraft/blob/master/web/img/produto.png)
+![Produtos](https://github.com/Diogo0602x/Bikcraft/blob/master/web/img/produto.PNG)
 
 # Página Portfólio
 
-![Portfólio](https://github.com/Diogo0602x/Bikcraft/blob/master/web/img/portfolio.png)
+![Portfólio](https://github.com/Diogo0602x/Bikcraft/blob/master/web/img/portfolio.PNG)
 
 # Página Contato
 
-![Contato](https://github.com/Diogo0602x/Bikcraft/blob/master/web/img/contato.png)
+![Contato](https://github.com/Diogo0602x/Bikcraft/blob/master/web/img/contato.PNG)
